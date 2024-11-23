@@ -1,0 +1,12 @@
+[package]
+name = "INTERIM_11"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+piston = "0.53.0"
+piston2d-graphics = "0.43.0"
+pistoncore-glutin_window = "0.71.0"
+piston2d-opengl_graphics = "0.82.0"
+find_folder = "0.3.0"
+rand = "0.8.5"
